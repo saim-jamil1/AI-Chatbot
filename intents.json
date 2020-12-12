@@ -1,0 +1,27 @@
+{"intents":[
+    {
+        "tag":"greetings",
+        "patterns":["hello","hey","hi","good day","greetings","what's up","how is it going"],
+        "responses":["Hello","hey!","What can i do for you"]
+    }
+]}
+
+{"intents":[
+    {
+        "tag":"goodbye",
+        "patterns":["See you later","see you soon","bye","have a good day","greetings","gotta go"],
+        "responses":["Talk to you later","sad to see you go","Please dot leave :(","Sure Will be wating For you"]
+    }
+]}
+
+{"intents":[
+    {
+        "tag":"about",
+        "patterns":["Who are you","what is your name","what is your age","how old are you","who created you","Your age","what can i call you"],
+        "responses":["My name is Saim ","I am your Assistant,Saim!","What can i do for you"]
+    }
+]}
+
+
+
+
